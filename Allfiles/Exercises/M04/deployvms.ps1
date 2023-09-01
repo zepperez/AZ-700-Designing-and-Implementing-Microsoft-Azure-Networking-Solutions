@@ -5,3 +5,7 @@ New-AzResourceGroupDeployment -ResourceGroupName $RGName -TemplateFile azuredepl
 New-AzResourceGroupDeployment -ResourceGroupName $RGName -TemplateFile azuredeploy.json -TemplateParameterFile azuredeploy.parameters.vm3.json
 
 
+
+
+
+
